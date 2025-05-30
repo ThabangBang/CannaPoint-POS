@@ -1,0 +1,12 @@
+# Ignore Android build files
+/build/
+*.apk
+*.dex
+*.so
+
+# Ignore local IDE settings
+/.idea/
+*.iml
+
+# Ignore Gradle cache
+/.gradle/
