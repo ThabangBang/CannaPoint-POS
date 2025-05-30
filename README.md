@@ -20,3 +20,20 @@ CannaPoint POS is a specialized **Point-of-Sale system** designed for cannabis r
 ### **Clone Repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/CannaPointPOS.git
+
+![Build Status](https://github.com/YOUR_USERNAME/CannaPointPOS/actions/workflows/android-ci.yml/badge.svg)
+
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/CannaPointPOS)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/CannaPointPOS)
+
+## Screenshots
+### Main Screen
+![POS Main Screen](https://github.com/YOUR_USERNAME/CannaPointPOS/raw/main/screenshot1.png)
+
+### Sales Report
+![Sales Report Screen](https://github.com/YOUR_USERNAME/CannaPointPOS/raw/main/screenshot2.png)
+
+## Demo
+![App Demo](https://github.com/YOUR_USERNAME/CannaPointPOS/raw/main/demo.gif)
