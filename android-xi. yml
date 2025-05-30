@@ -29,3 +29,7 @@ jobs:
 
       - name: Run Unit Tests
         run: ./gradlew test
+
+git add .github/workflows/android-ci.yml
+git commit -m "Added CI/CD workflow"
+git push origin main
